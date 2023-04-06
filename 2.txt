@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hey but with changes
+=======
+hey but on new branch
+>>>>>>> new
